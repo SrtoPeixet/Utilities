@@ -1,0 +1,7 @@
+#
+#### Requeriments file ####
+#
+#### Run pip install -r requeriments.txt
+
+fpdf
+PyPDF2
